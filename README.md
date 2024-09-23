@@ -1,4 +1,4 @@
-# Caesar-Cipher
+# Caesar Cipher
 A python script implementation of a Caesar Cipher.
 
 ## Instructions
